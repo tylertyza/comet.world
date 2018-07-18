@@ -1,0 +1,2 @@
+# comet.world
+Minecraft Community
